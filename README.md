@@ -1,5 +1,5 @@
 
-# YOUR PROJECT TITLE: Past life generator
+#PROJECT TITLE: Past life generator
 
 #### Video Demo:  <https://youtu.be/R3OJSubspqo?si=9iByckARdlXaGZ5T>
 
